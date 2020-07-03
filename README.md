@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [@dunamu](https://github.com/dunamu).
+- 🔭 I’m currently working on [@dunamu](https://github.com/dunamu) as backend teamlead.
 - 🌱 I’m currently learning backend engineering and operating platform.
 - 😍 I'm currently interested in [Kotlin](https://kotlinlang.org/), [Rust](https://www.rust-lang.org/) and [Go](https://golang.org/).
   - 😋 In past, [Python](https://www.python.org/), [Ruby](https://www.ruby-lang.org/) and [TypeScript](https://www.typescriptlang.org/).
