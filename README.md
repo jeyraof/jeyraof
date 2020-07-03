@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning backend engineering and operating platform.
 - 😍 I'm currently interested in [Kotlin](https://kotlinlang.org/), [Rust](https://www.rust-lang.org/) and [Go](https://golang.org/).
   - 😋 In past, [Python](https://www.python.org/), [Ruby](https://www.ruby-lang.org/) and [TypeScript](https://www.typescriptlang.org/).
-- 💬 Ask me like that “[how about dinner with me?]("https://twitter.com/intent/tweet?original_referer=https://github.com/jeyraof&text=%40_jeyraof%20%21%20How%20about%20dinner%20with%20me%3F&via=github")”
+- 💬 Ask me like that “[how about dinner with me?](https://twitter.com/intent/tweet?text=%40_jeyraof%20!%20How%20about%20dinner%20with%20me%3F)”
 - 📫 How to reach me: [@_jeyraof](https://twitter.com/_jeyraof) or [jaeyoung_at_monodiary.net](mailto://jaeyoung@monodiary.net).
 
 <!--
