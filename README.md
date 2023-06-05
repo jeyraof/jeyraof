@@ -1,4 +1,4 @@
-<a href="mailto://jaeyoung+gh@monodiary.net"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a> 
+<a href="mailto://jeyraof+ghmain@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a> 
 <a href="https://twitter.com/_jeyraof"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a> 
 <a href="https://t.me/jeyraof"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a> 
 <a href="https://www.linkedin.com/in/jaeyoungl/"><img src="https://img.shields.io/badge/Linkedin-2867b2?style=flat&logo=linkedin&logoColor=white"/></a> 
